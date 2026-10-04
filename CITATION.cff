@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software or its results, please cite it as below."
+title: "basalt-co2-4d-sensitivity: rock-physics and time-lapse seismic sensitivity to CO2 mineralization in basalt"
+type: software
+authors:
+  - family-names: Teruya
+    given-names: Jorge A.
+    affiliation: "Instituto de Energia e Ambiente, Universidade de São Paulo (IEE-USP)"
+    orcid: "https://orcid.org/0000-0003-3537-040X"
+    email: jteruya@usp.br
+version: 1.0.0
+date-released: 2026-10-04
+license: MIT
+repository-code: "https://github.com/USUARIO/basalt-co2-4d-sensitivity"
+keywords:
+  - CO2 mineralization
+  - basalt
+  - rock physics
+  - Gassmann
+  - time-lapse seismic
+  - Paraná Basin
