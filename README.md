@@ -28,7 +28,7 @@ scripts in this repository.
 Python 3.11 was used. The full run takes under a minute on a laptop.
 
 ```bash
-git clone https://github.com/USUARIO/basalt-co2-4d-sensitivity.git
+git clone https://github.com/joshu007/basalt-co2-4d-sensitivity.git
 cd basalt-co2-4d-sensitivity
 python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
