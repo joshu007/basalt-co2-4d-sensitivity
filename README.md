@@ -52,7 +52,7 @@ Random seeds are fixed (Monte Carlo 20261001; time bands 7; noise test seeds
 ## Citation
 
 Please cite the article and this software (see `CITATION.cff`, or the
-"Cite this repository" button on GitHub). DOI: see the Zenodo badge once released.
+"Cite this repository" button on GitHub). DOI: 10.5281/zenodo.23145955.
 
 ## License
 
